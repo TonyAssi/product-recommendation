@@ -1,0 +1,4 @@
+datasets
+faiss-cpu
+transformers
+torch
