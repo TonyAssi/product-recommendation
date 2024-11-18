@@ -1,6 +1,8 @@
 # Product Recommendation using Image Similarity
 In this article we'll go over how to build a product recommendation system using image similarity of products that users have already clicked on. We'll upload a dataset, create a demo, and discuss how it works.
 
+<img width="1237" alt="product-rec" src="https://github.com/user-attachments/assets/b180b1d6-2971-45af-b8c5-fbc8dbaae021">
+
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/tonyassi/product-recommendation)
 
 ## Download Code
